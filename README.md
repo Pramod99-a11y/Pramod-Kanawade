@@ -21,9 +21,9 @@ Welcome to my GitHub profile! As a **technical writer** with **5 years of experi
 
 ## 📝 My Work  
 Here are some of my recent contributions:  
-- **[Project Name](https://github.com/example)** – API documentation & developer guides  
-- **[Project Name](https://github.com/example)** – End-user manuals for SaaS applications  
-- **[Project Name](https://github.com/example)** – UX writing & onboarding content  
+- **[Project](https://github.com/example)** – API documentation & developer guides  
+- **[Project](https://acrobat.adobe.com/id/urn:aaid:sc:AP:28043847-cd31-4e2f-990b-270ce3a9adad)** – End-user manuals 
+   
 
 ## 📬 Get in Touch  
 Feel free to connect with me for collaboration or discussions on technical writing!  
