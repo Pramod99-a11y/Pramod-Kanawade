@@ -18,6 +18,8 @@ Welcome to my GitHub profile! As a **technical writer** with **5 years of experi
 - 📖 Created API docs used by **5000+ developers worldwide**  
 - 🏅 **Certified Technical Writer** – Documentation & Content Strategy  
 - 🚀 Helped **reduce user onboarding time by 30%** through improved documentation  
+- 🏆 **Most Valuable Player** – Recognized for exceptional contributions  
+- ⭐ **Star Award** – Excellence in technical writing and documentation 
 
 ## 📝 My Work  
 Here are some of my recent contributions:  
